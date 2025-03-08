@@ -9,11 +9,15 @@
 
 We predicted the genotoxicity of compounds using in vitro / in vivo datasets derived from published hERGAT models (Cardiotoxicity prediction model)
 
+In vitro data were extracted from the Ames test, while in vivo data were obtained from PubChem, eChemPortal, and the QSAR ToolBox database.
+
+Genotoxicity was assessed separately for both the in vitro and in vivo datasets.
+
 In addition, we provide a Python file that can be used to generate predictions from the model we trained.
 
-- [Data](https://github.com/bmil-jnu/hERGAT/tree/main/Dataset)
-- [Model](https://github.com/bmil-jnu/hERGAT/tree/main/Model/hERGAT)
-- [Performance figure](https://github.com/bmil-jnu/hERGAT/tree/main/Results)
+- [Data](https://github.com/bmil-jnu/Genotoxicity-prediction/tree/main/Data)
+- [Model](https://github.com/bmil-jnu/Genotoxicity-prediction/tree/main/Model)
+- [Performance figure](https://github.com/bmil-jnu/Genotoxicity-prediction/tree/main/Performance)
 
 
 ## Dependency
