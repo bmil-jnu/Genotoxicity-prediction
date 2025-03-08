@@ -1,7 +1,7 @@
 # Genotoxicity-prediction
 
 **Prediction Genotoxicity using in vitro / in vivo dataset**  
-Authors: *Dohyeon Lee, Sunyong Yoo*
+
 
 
 
